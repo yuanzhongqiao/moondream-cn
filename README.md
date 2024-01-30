@@ -69,7 +69,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/vikhyat/moondream/blob/main/assets/demo-1.jpg"><img src="/vikhyat/moondream/raw/main/assets/demo-1.jpg" alt="" style="max-width: 100%;"></a></td>
+<td><a target="_blank" rel="noopener noreferrer" href="https://github.com/yuanzhongqiao/moondream-cn/blob/main/assets/demo-1.jpg"><img src="/vikhyat/moondream/raw/main/assets/demo-1.jpg" alt="" style="max-width: 100%;"></a></td>
 <td><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这本书的书名是什么？</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习小书</font></font><br><br><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你能告诉我关于这本书的哪些内容吗？</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">这本书似乎是一本名为“深度学习小书”的白色小册子。</font><font style="vertical-align: inherit;">它握在一个人的手里，看起来像是私人物品。</font><font style="vertical-align: inherit;">本书的内容侧重于深度学习的基础知识，深度学习是人工智能的一个领域，使用神经网络来处理和分析数据。</font><font style="vertical-align: inherit;">这本书很可能介绍了深度学习所涉及的概念和技术，使初学者可以轻松理解并帮助他们了解这种高级机器学习方法的基础知识。</font></font><br><br><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">那人站在哪里？</font></font></strong><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该人站在屋外的阳台或甲板上。</font></font></td>
 </tr>
 <tr>
